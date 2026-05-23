@@ -1,0 +1,12 @@
+{
+  "name": "terraform-gcp-iac",
+  "description": "Terraform-first infrastructure skill for GCP projects, bootstrap flows, IAM, state management, and production-minded IaC delivery.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sebastiao Berino"
+  },
+  "homepage": "https://github.com/<your-user>/agent-skills/tree/main/engineering/terraform-gcp-iac",
+  "repository": "https://github.com/<your-user>/agent-skills",
+  "license": "MIT",
+  "skills": "./skills"
+}

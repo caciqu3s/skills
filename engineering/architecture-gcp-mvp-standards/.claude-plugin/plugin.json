@@ -1,0 +1,12 @@
+{
+  "name": "architecture-gcp-mvp-standards",
+  "description": "Architecture definition skill for low-cost MVPs with TypeScript, Angular, GCP, Firebase, GitHub Actions, and SRE-first standards.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sebastiao Berino"
+  },
+  "homepage": "https://github.com/<your-user>/agent-skills/tree/main/engineering/architecture-gcp-mvp-standards",
+  "repository": "https://github.com/<your-user>/agent-skills",
+  "license": "MIT",
+  "skills": "./skills"
+}

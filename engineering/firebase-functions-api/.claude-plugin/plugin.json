@@ -1,0 +1,12 @@
+{
+  "name": "firebase-functions-api",
+  "description": "Firebase Functions v2 TypeScript API skill for callable/request handlers, Admin SDK, HttpsError handling, custom claims, emulators, and Firestore-backed backend patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sebastiao Berino"
+  },
+  "homepage": "https://github.com/<your-user>/agent-skills/tree/main/engineering/firebase-functions-api",
+  "repository": "https://github.com/<your-user>/agent-skills",
+  "license": "MIT",
+  "skills": "./skills"
+}
